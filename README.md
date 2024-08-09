@@ -20,7 +20,7 @@ To run the Love Song Music Player on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https:https://github.com/SakuraintheSkies/Love-Song/blob/main/
+   git clone https://github.com/SakuraintheSkies/Love-Song
    ```
 
 2. **Navigate to the project directory:**
@@ -28,9 +28,9 @@ To run the Love Song Music Player on your local machine, follow these steps:
    cd love-song-music-player
    ```
 
-3. **Open the `index.html` file in your web browser:**
+3. **Open the `love.html` file in your web browser:**
    ```bash
-   open index.html
+   open love.html
    ```
 
 You can now enjoy your favorite love songs with this custom music player!
@@ -48,10 +48,8 @@ Feel free to personalize the Love Song Music Player by modifying the following:
 ```
 love-song-music-player/
 │
-├── index.html       # The main HTML file
-├── styles.css       # CSS for styling the music player
-├── script.js        # JavaScript for player functionality
-└── songs/           # Directory containing MP3 files (add your songs here)
+├── love.html       # The main HTML file
+├── song.css       # CSS for styling the music player 
 ```
 
 ## How to Add Songs
