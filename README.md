@@ -20,7 +20,7 @@ To run the Love Song Music Player on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/love-song-music-player.git
+   git clone https:https://github.com/SakuraintheSkies/Love-Song/blob/main/
    ```
 
 2. **Navigate to the project directory:**
